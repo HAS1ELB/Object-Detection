@@ -38,6 +38,7 @@ Ce projet implémente des techniques avancées de détection d'objets en utilisa
 3. Téléchargez les poids YOLOv8 :
 
    - [yolov8l.pt](https://raw.githubusercontent.com/HAS1ELB/Object-Detection/main/Yolo-Weights/yolov8l.pt)
+   - yolov8m.pt
    - [yolov8n.pt](https://raw.githubusercontent.com/HAS1ELB/Object-Detection/main/Yolo-Weights/yolov8n.pt)
 
 ---
@@ -89,4 +90,7 @@ python car_counter.py
 ## Contributeur
 
 **HASSAN EL BAHRAOUI**
-Contact : [GitHub](https://github.com/HAS1ELB)
+
+**WALID EL BACHAR**
+
+**DEHBI KAMAL**
